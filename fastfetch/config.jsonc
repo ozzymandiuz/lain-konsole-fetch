@@ -1,0 +1,149 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "/home/ozzymandius/.config/fastfetch/lain.ans",
+    "padding": {
+      "right": 0
+    }
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "format": "┌────────────────────────────│ Hardware │───────────────────┐"
+    },
+    {
+      "type": "cpu",
+      "key": "│  ├  CPU"
+    },
+    {
+      "type": "gpu",
+      "key": "│  ├  GPU"
+    },
+    {
+      "type": "memory",
+      "key": "│  ├  RAM"
+    },
+    {
+      "type": "disk",
+      "key": "│  └  Disk",
+      "folders": "/"
+    },
+    {
+      "type": "custom",
+      "format": "├────────────────────────────│ Software │───────────────────┐"
+    },
+    {
+      "type": "os",
+      "key": "│  ├  OS"
+    },
+    {
+      "type": "kernel",
+      "key": "│  ├  Kernel"
+    },
+    {
+      "type": "packages",
+      "key": "│  ├  Pkgs"
+    },
+    {
+      "type": "shell",
+      "key": "│  ├  Shell"
+    },
+    {
+      "type": "de",
+      "key": "│  ├  DE"
+    },
+    {
+      "type": "lm",
+      "key": "│  ├  Login"
+    },
+    {
+      "type": "wm",
+      "key": "│  ├  WM"
+    },
+    {
+      "type": "custom",
+      "format": "│  ├  Let's all love lain"
+    },
+    {
+      "type": "custom",
+      "format": "│  └  Term: Konsole"
+    },
+    {
+      "type": "custom",
+      "format": "├───────────────────────────────────────────────────────────┐"
+    },
+    {
+      "type": "custom",
+      "format": "│  PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│   PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│    PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│     PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│      PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│       PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│        PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│       PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│      PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│     PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│    PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│   PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│  PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│   PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│    PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│     PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "│      PRESENT DAY, PRESENT TIME, PRESENT DAY, PRESENT TIME"
+    },
+    {
+      "type": "custom",
+      "format": "└───────────────────────────────────────────────────────────┘"
+    }
+  ]
+}
