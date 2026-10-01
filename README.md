@@ -31,3 +31,4 @@ echo "Done. Backups end in .bak-$ts"
 echo "Next: install fonts-cascadia-code, add fish/snippet.fish to your fish config,"
 echo "run 'tmux kill-server' once, then open Konsole from the app menu."# lain-konsole-fetch
 I made a fun Lain inspired RICE for kali distro on KDE
+![screenshot](screenshot.png)
